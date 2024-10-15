@@ -10,7 +10,7 @@ const quotes = [
         image: "media/Nathan Daniel Woodring.jpg"
     },
     {
-        text: "fin fin fin",
+        text: "fin fin fin fin - fin fin",
         author: "Lukah Zion Youngs",
         image: "media/Lukah Zion Youngs.jpg"
     },
@@ -23,6 +23,11 @@ const quotes = [
         text: "When they fall asleep, I take my advantage.",
         author: "Walker Matheson Owens",
         image: "media/Voltorb The Meager.jpg"
+    },
+    {
+        text: "I'm not a pedophile, I'm a pedophile with a good heart",
+        author: "Tanmay Sharma",
+        image: "media/Tanmay Sharma.jpg"
     }
 ];
 
